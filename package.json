@@ -2,7 +2,7 @@
   "name": "goit-react-hw-06-phonebook",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://vitaliiseeker.github.io/goit-react-hw-06-phonebook",
+  "homepage": "https://dsersmart.github.io/goit-react-hw-06-phonebook-Exemple/",
   "dependencies": {
     "@emotion/react": "^11.10.4",
     "@redux-devtools/extension": "^3.2.3",
